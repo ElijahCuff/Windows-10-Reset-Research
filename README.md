@@ -16,7 +16,7 @@ Window 10 research into factory data reset.
 > Situations where the computer contains new drivers and software.     
 - Prepare the computer for factory reset ( delete any unnecessary files )   
 - Press `Win` + `R` or open RUN dialogue by searching for "RUN"    
-- Start System Preparation Software with command `%WIMDIR%\System32\Sysprep\sysprep.exe`     
+- Start System Preparation Software with command `%WINDIR%\System32\Sysprep\sysprep.exe`     
 - Select Mode "PC Audit Mode" and press OK - wait for restart automatically.      
 ( This loads you into the System Administrator Account for System Auditing )    
     
