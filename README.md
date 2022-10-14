@@ -57,6 +57,17 @@ Window 10 research into factory data reset.
 - Restart PC into Windows    
 - PC will still be at login screen but you have the users files backed up.    
    
+NOTE,
+When reading the backed up files on another Windows PC it will recognise the file attribute of ownership to the old PC, usually throwing a "This file isn't yours" warning - you just need to select 5he whole folder and then change the attributes,    
+- Right Click    
+- Select Properties    
+- Select Security Tab    
+- Select File Ownership/Attributes     
+- Delete the old owner    
+- Add yourself as the new owner    
+
+
+
 ### BOOT FROM RECOVERY DRIVE    
 > Useful to retain system software and drivers    
 - Open Windows Start Menu   
